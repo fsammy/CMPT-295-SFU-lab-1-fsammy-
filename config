@@ -1,0 +1,3 @@
+Host github.com
+User git
+IdentityFile /home/feli/.ssh/295_key
